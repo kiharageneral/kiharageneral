@@ -15,50 +15,32 @@ I'm a computer scientist who is passionate about developing applications using f
 
 ### Languages
 
-!Python
-
-!Dart
-
-!HTML
-
-!CSS
-
-!JavaScript
+- Python
+- Dart
+- HTML
+- CSS
+- JavaScript
 
 ### Frameworks and libraries
-
-!Flutter
-
-!Django
-
-!TensorFlow
-
-!NumPy
-
-!Pandas
-
-!Scikit-learn
-
-!Bootstrap
+- Flutter
+- Django
+- TensorFlow
+- NumPy
+- Pandas
+- Scikit-learn
+- Bootstrap
 
 ### Tools and platforms
-
-!Git
-
-!GitHub
-
-!VS Code
-
-!Jupyter
-
-!Firebase
-
-!Linux
+- Git
+- GitHub
+- VS Code
+- Jupyter
+- Firebase
+- Linux
 
 
 
 ## 🤝 Connect with me
 
-!Twitter
-
-!LinkedIn: www.linkedin.com/in/general-kihara
+- X
+- LinkedIn: www.linkedin.com/in/general-kihara
