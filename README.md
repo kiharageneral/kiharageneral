@@ -2,7 +2,7 @@
 
 I'm a computer scientist who is passionate about developing applications using flutter, python, django and machine learning.
 
-- 🔭 I’m currently working on EcoRead mobile app.
+- 🔭 I’m currently working on my freelancing jobs and my computer repair workshop.
 - 🌱 I’m currently learning machine learning.
 - 👯 I’m looking to collaborate on any project that involves python.
 - 🤔 I’m looking for help with any problem or challenge.
