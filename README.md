@@ -2,8 +2,8 @@
 
 I'm a computer scientist who is passionate about developing applications using flutter, python, django and machine learning.
 
-- 🔭 I’m currently working on my freelancing jobs and my computer repair workshop.
-- 🌱 I’m currently learning machine learning.
+- 🔭 I’m currently working on my freelancing jobs and my own projects.
+- 🌱 I’m currently learning how to use machine learning with mobile applications.
 - 👯 I’m looking to collaborate on any project that involves python.
 - 🤔 I’m looking for help with any problem or challenge.
 - 💬 Ask me about machine learning, django, flutter and data structures and algorithms.
@@ -19,7 +19,7 @@ I'm a computer scientist who is passionate about developing applications using f
 - Dart
 - HTML
 - CSS
-- JavaScript
+
 
 ### Frameworks and libraries
 - Flutter
@@ -42,5 +42,5 @@ I'm a computer scientist who is passionate about developing applications using f
 
 ## 🤝 Connect with me
 
-- X
+- X : https://x.com/kiharageneral
 - LinkedIn: www.linkedin.com/in/general-kihara
